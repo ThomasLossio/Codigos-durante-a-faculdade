@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=61139C3D
+eax=00000000 ebx=0023AC38 ecx=00000001 edx=00000005 esi=0023987C edi=61188CD0
+ebp=00000000 esp=002396C0 program=D:\ThomasLossio\Documents\NetBeansProjects\ListaExercicios3\dist\Debug\Cygwin_4.x-Windows\listaexercicios3.exe, pid 9012, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+End of stack trace

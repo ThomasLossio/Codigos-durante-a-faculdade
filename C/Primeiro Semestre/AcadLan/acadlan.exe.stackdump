@@ -1,0 +1,6 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=61138E1D
+eax=00000004 ebx=002382E8 ecx=00000001 edx=00000006 esi=00236F2C edi=61187CD0
+ebp=00000001 esp=00236D70 program=D:\ThomasLossio\Documents\NetBeansProjects\AcadLan\dist\Debug\Cygwin_4.x-Windows\acadlan.exe, pid 6660, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args

@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=61139C3D
+eax=00000000 ebx=0023A1E8 ecx=00000001 edx=0000000C esi=00238E2D edi=61188CD0
+ebp=00000000 esp=00238C70 program=D:\ThomasLossio\Documents\NetBeansProjects\estruc09102014\dist\Debug\Cygwin_4.x-Windows\estruc09102014.exe, pid 13872, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+End of stack trace

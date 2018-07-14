@@ -1,0 +1,6 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=61138E84
+eax=00000068 ebx=6D6F6875 ecx=FFFFFFFE edx=20048239 esi=611849BF edi=61188CD0
+ebp=00000001 esp=002396B0 program=D:\ThomasLossio\Documents\NetBeansProjects\funcaorand\dist\Debug\Cygwin_4.x-Windows\funcaorand.exe, pid 7568, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
